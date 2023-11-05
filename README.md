@@ -33,7 +33,7 @@ Pré-requisitos: Java 8
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/jeancosta93/cadastroBancario
 
 # Autor
 
